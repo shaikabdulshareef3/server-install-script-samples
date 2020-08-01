@@ -39,7 +39,7 @@
                             }
                         ]
                     },
-					"clientfileservice": {
+					          "clientfileservice": {
                         "instances":[
                             {
                             "instanceId":"0"
@@ -149,7 +149,14 @@
                             }
                         ]
                     },
-                    "clientfileservice": {
+                    "metircs": {
+                        "instances":[
+                            {
+                            "instanceId":"0"
+                            }
+                        ]
+                    },
+                    "tdsnativeservice": {
                         "instances":[
                             {
                             "instanceId":"0"
